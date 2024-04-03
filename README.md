@@ -3,3 +3,4 @@
 ## Sintáxe básica
 - variáveis
 - operadores
+- laços de repetição
