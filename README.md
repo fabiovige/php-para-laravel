@@ -1,2 +1,5 @@
-## php para laravel
+# php para laravel
 
+## Sintáxe básica
+- variáveis
+- operadores
