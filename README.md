@@ -4,3 +4,4 @@
 - variáveis
 - operadores
 - laços de repetição
+- arrays
