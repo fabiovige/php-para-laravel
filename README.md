@@ -5,3 +5,12 @@
 - operadores
 - laços de repetição
 - arrays
+
+## Funções
+- funções
+- parametros
+- retorno
+- função anônima
+
+## Otientação a Objetos
+- classes
