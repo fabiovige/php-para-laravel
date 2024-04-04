@@ -45,8 +45,13 @@ class User extends Authenticatable
         ];
     }
 
-    public function meuMetodo(): string
+    private function meuMetodo(): string
     {
         return 'Olá, mundo!';
+    }
+
+    public function meuMetodo2(): string
+    {
+        return $this->meuMetodo();
     }
 }
